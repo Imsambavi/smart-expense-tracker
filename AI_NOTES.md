@@ -38,6 +38,14 @@ Before submitting the project, I:
 - Confirmed all JUnit tests passed successfully
 - Reviewed the generated code and made necessary modifications to meet the assignment requirements
 
+## AI Suggestions Not Used
 
+Some AI suggestions were intentionally not implemented because they were outside the assignment scope, including:
+
+- Database integration (MySQL/PostgreSQL)
+- JWT Authentication
+- Spring Security
+- Docker support
+- Swagger/OpenAPI documentation
 
 The project uses in-memory storage as permitted by the assignment instructions.
