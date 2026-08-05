@@ -183,6 +183,7 @@ Handled exceptions include:
 
 
 **Project Structure**
+
 <img width="1047" height="546" alt="image" src="https://github.com/user-attachments/assets/232206c6-1fd7-41fc-80ee-856c6818b82d" />
 
 
@@ -191,30 +192,68 @@ _Figure 1. Spring Boot application running successfully on port 8080._
 
 **POST Request**
 
-<img width="1600" height="1000" alt="Screenshot 2026-07-31 154909" src="https://github.com/user-attachments/assets/90f7d3a8-90b7-4fee-9c6e-c9872659b981" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/69e0aa3e-1913-4f98-8555-f33a3579bd07" />
+
 
 _Figure 2.Successfully creating a new expense using the POST endpoint._
 
 
 **GET Request**
 
-<img width="1600" height="1000" alt="Screenshot 2026-07-31 155821" src="https://github.com/user-attachments/assets/4dcbd1e5-e04e-494a-80ad-8fb2f7bcc3ed" />
+<img width="1600" height="1000" alt="GET" src="https://github.com/user-attachments/assets/ae770443-e583-4e7f-b8b6-28190936a98c" />
+
 
 _Figure 3. Retrieving all expenses from the application._
 
 
 **Category Filter**
 
-<img width="1600" height="1000" alt="Screenshot 2026-08-02 092616" src="https://github.com/user-attachments/assets/ed8e60a9-ac5e-41b2-ae87-54d4be43e6b4" />
+<img width="1600" height="1000" alt="category filter" src="https://github.com/user-attachments/assets/e49de370-130a-47ed-a110-9d6e80005ab1" />
 
-_Figure 4. Retrieving all expenses from the application._
+
+_Figure 4. Retrieving particular category items from the application._
+
+
+**TOTAL EXPENSE CALCULATOR**
+
+<img width="1600" height="1000" alt="total" src="https://github.com/user-attachments/assets/29c530c3-2601-4f80-ac3c-742b8412a54e" />
+
+
+_Figure 5. Calculating total expenses._
+
+
+**DELETE**
+
+<img width="1600" height="1000" alt="DELETE" src="https://github.com/user-attachments/assets/60f2194c-f92b-4bc2-9185-bd5347f7992d" />
+
+
+_Figure 6. Deleting the particular ID._
+
+
+**DELETION VERIFICATION**
+
+<img width="1600" height="1000" alt="VERIFY DELETE" src="https://github.com/user-attachments/assets/8cf7fbdc-c9d4-4014-9481-c3c0e306c90c" />
+
+
+_Figure 7. Verifying after deletion of respective IDs._
+
+
+**VALIDATION**
+
+<img width="1600" height="1000" alt="VALIDATION" src="https://github.com/user-attachments/assets/208a3af5-b24b-4f14-a757-8029d25d0016" />
+
+
+_Figure 8. Validation using invalid data._
 
 
 **Unit Tests**
 
 <img width="1920" height="1020" alt="Screenshot 2026-07-31 163646" src="https://github.com/user-attachments/assets/a2b783cd-949f-438a-9f03-13655348d989" />
 
-_Figure 5. All unit tests executed successfully._
+
+_Figure 9. All unit tests executed successfully._
+
+
 ---
 
 ## Future Enhancements
@@ -225,9 +264,6 @@ Possible improvements include:
 - Spring Data JPA
 - Spring Security with JWT Authentication
 - Docker support
-- Swagger/OpenAPI Documentation
-- Pagination and Sorting
-- Expense Search
 - Monthly Summary Report
 
 ---
